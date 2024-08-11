@@ -1,6 +1,3 @@
-Here is your README content in markdown format:
-
-```markdown
 # **Data Profiler**
 
 **Data Profiler** is a powerful and user-friendly web application built with Streamlit that allows you to analyze and visualize your datasets with ease. Simply upload your data in `.csv` or `.xlsx` format, and generate comprehensive profiling reports that help you detect anomalies, patterns, and trends within your data.
@@ -74,7 +71,3 @@ Once the application is running, follow these steps:
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-Replace `yourusername`, `email@example.com`, and adjust any other placeholder values as needed. This README provides a comprehensive overview of the project, installation instructions, usage details, and contribution guidelines.
