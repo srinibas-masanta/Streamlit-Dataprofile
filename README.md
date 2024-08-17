@@ -17,7 +17,7 @@ To run the Data Profiler application on your local machine, follow the steps bel
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/data-profiler.git
+git clone https://github.com/srinibas-masanta/data-profiler.git
 cd data-profiler
 ```
 
